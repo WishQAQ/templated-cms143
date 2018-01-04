@@ -1,0 +1,2 @@
+INSERT INTO `dede_kwkeyword` VALUES('1','14','航空物流','0','1','1','1365647741');
+INSERT INTO `dede_kwkeyword` VALUES('2','16','空运','0','1','5','1365647918');

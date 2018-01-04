@@ -1,0 +1,8 @@
+INSERT INTO `dede_addon17` VALUES('17','18','','','127.0.0.1','空气净化器','奔众','BZ-18-1','BZ-18','<img alt=\"\" src=\"/uploads/allimg/150629/1-15062923255J46.jpg\" style=\"width: 878px; height: 878px;\" /><br />\r\n<br />\r\n<img alt=\"\" src=\"/uploads/allimg/150629/1-150629232615300.jpg\" style=\"width: 878px; height: 878px;\" /><br />\r\n');
+INSERT INTO `dede_addon17` VALUES('18','18','','','127.0.0.1','ttt','1111','2222','33333','');
+INSERT INTO `dede_addon17` VALUES('19','18','','','127.0.0.1','32323','2323','23232','3232323232','dsd');
+INSERT INTO `dede_addon17` VALUES('20','18','','','127.0.0.1','fsfsaf','sfsadfasfsa','fsdfs','adfsadfsa','sdfas');
+INSERT INTO `dede_addon17` VALUES('21','18','','','127.0.0.1','xxds','xxcds','xcfsdf','sdxxx','xcxc');
+INSERT INTO `dede_addon17` VALUES('22','18','','','127.0.0.1','bbb','bb','bbbb','bbbbb','bbbb');
+INSERT INTO `dede_addon17` VALUES('23','18','','','127.0.0.1','yrr','sdfdfas','erere','erer','sdfsafsafsafsf');
+INSERT INTO `dede_addon17` VALUES('24','18','','','127.0.0.1','bbvbvb','vbvbvbv','bvb','vbvbvbv','dfsfasfsfasdfsa');

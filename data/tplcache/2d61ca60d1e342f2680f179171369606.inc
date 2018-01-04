@@ -1,0 +1,3 @@
+
+            <li class="[field:currentstyle/]"><a href="[field:typelink/]" >[field:typename/]</a></li>
+          

@@ -1,0 +1,2 @@
+INSERT INTO `dede_flink` VALUES('13','1','http://www.moke8.com/','魔客吧','','','','1439801189','1','2');
+INSERT INTO `dede_flink` VALUES('14','1','http://www.moke8.com/dedecms/','织梦模板','','','','1439801376','1','2');
